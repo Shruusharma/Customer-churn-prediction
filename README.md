@@ -3,22 +3,22 @@
 > Predicting customer attrition using Machine Learning to help banks 
 > retain customers before they leave.
 
-## 📌 Problem Statement
+## Problem Statement
 A digital bank loses revenue every time a credit card customer leaves. 
 This project predicts **which customers are at risk of churning** 
 so the bank can take proactive action.
 
-## 🎯 Results
+## Results
 | Model | Accuracy | ROC-AUC | F1-Score |
 |-------|----------|---------|----------|
 | Logistic Regression | 90.3% | 0.892 | 0.73 |
 | Random Forest | 96.2% | 0.978 | 0.91 |
 | **XGBoost (Final)** | **97.5%** | **0.982** | **0.95** |
 
-## 🚀 How to Run
+## How to Run
 1. Clone this repository:
 ```
-   git clone https://github.com/YOUR-USERNAME/customer-churn-prediction.git
+   git clone https://github.com/Shruusharma/customer-churn-prediction.git
 ```
 2. Install dependencies:
 ```
@@ -31,13 +31,13 @@ so the bank can take proactive action.
    streamlit run app.py
 ```
 
-## 🗂️ Project Structure
+## Project Structure
 - `notebooks/` — Jupyter notebooks with full analysis
 - `src/` — Clean Python source code
 - `app.py` — Streamlit web application
 - `models/` — Saved trained model
 
-## 🛠️ Tech Stack
+## Tech Stack
 Python | XGBoost | SHAP | Streamlit | scikit-learn | pandas
 
 ## 👩‍💻 Authors
