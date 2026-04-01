@@ -40,5 +40,5 @@ so the bank can take proactive action.
 ## Tech Stack
 Python | XGBoost | SHAP | Streamlit | scikit-learn | pandas
 
-## 👩‍💻 Authors
+## Authors
 Shruti Sharma — Anand International College of Engineering
